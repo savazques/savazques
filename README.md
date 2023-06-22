@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savazques
 - 👀 I’m interested in Software Development and Web Dev 
-- 🌱 I’m currently learning Object Oriented Programming 
+- 🌱 I’m currently learning  
 - 📫 How to reach me https://www.linkedin.com/in/sarah-vasquez-a520a0232
 
 <!---
