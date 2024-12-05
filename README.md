@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @savazques
-- 👀 I’m interested in Software Development and Web Dev 
 - 📫 How to reach me https://www.linkedin.com/in/sarah-vasquez-a520a0232
 
 <!---
